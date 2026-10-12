@@ -1,0 +1,16 @@
+{
+  "name": "cafe-componentes-js",
+  "version": "1.0.0",
+  "description": "Componentes JavaScript de Bootstrap 4: tabs, collapse, accordion, tooltips, modal y carousel",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.2",
+    "jquery": "^3.7.1",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
